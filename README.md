@@ -1,5 +1,5 @@
 # Jobs Board
-**Jobs Board** is a job posting site where you can search for jobs using a filter. Ex. (Part-time, Consultant, Full-time)
+**Jobs Board** is a job posting site where you can search for user generated job listings using a filter. Ex. (Part-time, Consultant, Full-time)
 ## Directions on how to deploy
 ### System dependencies
 * Ruby version - 2.2.2
@@ -38,7 +38,7 @@ Run rake db:migrate
 
 Run rails server and go to locolhost:3000
 
-Here is the app live on Heroku [jobs_board]
+Here is the app live on Heroku [hire-dev.herokuapp.com]
 
 # ABOUT THE DEVELOPER
 
@@ -47,7 +47,7 @@ Here is the app live on Heroku [jobs_board]
 ####I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 #### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
 ####Check out my other Apps
-Github Page    | Live Site
+Github Page         | Live Site
 ------------------- | ----------
  [Blog app]         | [jmblog.herokuapp.com]
  [Raddit app]       | [jmraddit.herokuapp.com]
