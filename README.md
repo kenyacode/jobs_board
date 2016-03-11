@@ -11,7 +11,7 @@
 * gem turbolinks
 * gem jbuilder 2.0
 * gem simple_form 3.2 >= 3.2.1
-* gem haml 4.0 <= 4.0.7
+* gem haml 4.0 >= 4.0.7
 * gem bootstrap-sass 3.3., >= 3.3.6
 * gem github-markup 1.4
 
